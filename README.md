@@ -1,5 +1,5 @@
 # odin-recipes
-This is simple website about some food recipes. 
+This is [a simple website](https://cyberbug2077.github.io/odin-recipes/) about some food recipes. 
 
 ### Why i do this?
 For practice my basic HTML skills.
